@@ -83,6 +83,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
