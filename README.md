@@ -39,6 +39,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
