@@ -60,6 +60,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0206-reverse-linked-list) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
