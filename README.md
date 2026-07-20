@@ -6,6 +6,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
