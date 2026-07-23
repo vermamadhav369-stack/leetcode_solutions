@@ -67,6 +67,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
