@@ -88,6 +88,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0002-add-two-numbers](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0136-single-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0002-add-two-numbers](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
