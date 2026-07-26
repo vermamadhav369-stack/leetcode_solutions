@@ -100,6 +100,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
