@@ -4,7 +4,14 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
+        #using Recursion
         if n <= 0:
             return False
 
-        return (n & (n - 1)) == 0        
+        if n == 1:
+            return True
+
+        if n % 2 != 0:
+            return False
+
+        return self.isPowerOfTwo(n // 2)
