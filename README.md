@@ -13,6 +13,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0191-number-of-1-bits) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
