@@ -92,6 +92,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0191-number-of-1-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0050-powx-n](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
