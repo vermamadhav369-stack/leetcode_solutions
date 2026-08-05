@@ -169,6 +169,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
