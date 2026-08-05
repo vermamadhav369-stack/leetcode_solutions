@@ -152,6 +152,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -193,6 +195,11 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
