@@ -98,6 +98,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,4 +206,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
