@@ -37,6 +37,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0697-degree-of-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -211,6 +213,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0078-subsets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0216-combination-sum-iii) |
+| [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -223,4 +226,12 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
