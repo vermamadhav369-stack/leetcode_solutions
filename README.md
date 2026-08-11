@@ -97,6 +97,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0002-add-two-numbers](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Interactive
@@ -234,4 +236,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
