@@ -1,22 +1,24 @@
-class Solution: 
+class Solution:
     def largestInteger(self, nums: List[int], k: int) -> int:
-        result = []
-        subarray = []
-        for i in range(len(nums)):
-            subarray.append(nums[i])
-            if len(subarray) == k:
-                result.append(subarray[:])
-                subarray.pop(0)
+        if k == 1:
+            count = {}
+            for x in nums:
+                count[x] = count.get(x, 0) + 1
 
-        count = {}
-        for subarray in result:
-            for x in set(subarray):
-                count[x] = count.get(x , 0) + 1
+            ans = -1
+            for x in count:
+                if count[x] == 1:
+                    ans = max(ans, x)
+            return ans
+
+        if k == len(nums):
+            return max(nums)
 
         ans = -1
-        for x in count:
-            if count[x] == 1:
-                ans = max(ans, x)
+        if nums.count(nums[0]) == 1:
+            ans = max(ans, nums[0])
+
+        if nums.count(nums[-1]) == 1:
+            ans = max(ans, nums[-1])
 
         return ans
-        
