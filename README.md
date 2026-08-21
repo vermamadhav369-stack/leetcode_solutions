@@ -201,6 +201,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
