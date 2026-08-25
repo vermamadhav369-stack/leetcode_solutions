@@ -47,6 +47,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
