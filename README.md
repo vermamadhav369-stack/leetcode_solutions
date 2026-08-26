@@ -36,6 +36,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0697-degree-of-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0232-implement-queue-using-stacks](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Memoization
@@ -287,4 +289,5 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
