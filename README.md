@@ -25,6 +25,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0216-combination-sum-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0050-powx-n](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
