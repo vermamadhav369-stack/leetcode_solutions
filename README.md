@@ -71,6 +71,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0575-distribute-candies) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
