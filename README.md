@@ -23,6 +23,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0088-merge-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0001-two-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
