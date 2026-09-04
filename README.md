@@ -46,6 +46,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0697-degree-of-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
