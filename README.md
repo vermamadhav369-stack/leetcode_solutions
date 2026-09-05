@@ -15,6 +15,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0046-permutations](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
