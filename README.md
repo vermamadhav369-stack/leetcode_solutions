@@ -12,6 +12,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0027-remove-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
