@@ -10,7 +10,7 @@ class Solution:
 
             for i in range(left, right + 1):
                 farthest = max(farthest, i + nums[i])
-            left += 1
+            left = right + 1
 
             right = farthest
             jump += 1
