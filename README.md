@@ -43,6 +43,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0485-max-consecutive-ones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0697-degree-of-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -339,6 +341,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0045-jump-game-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
@@ -349,4 +352,8 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
