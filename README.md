@@ -221,6 +221,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0062-unique-paths](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
@@ -370,6 +371,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -396,5 +400,6 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
