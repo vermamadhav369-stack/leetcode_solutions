@@ -4,25 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
+class Solution: #(SELF Solution)
     def rightSideView(self, root: TreeNode | None) -> list[int]:
+        if not root:
+            return []
+
         ans = []
+        result = {}
+        queue = deque()
 
-        def rightview(node, level):
+        queue.append((root, 0))
 
-            if node is None:
-                return
+        while queue:
+            e, line = queue.popleft()
 
-            if len(ans) == level:
-                ans.append(node.val)
+            result[line] = e.val
 
-            if node.right:
-                rightview(node.right, level + 1)
+            if e.left:
+                queue.append((e.left, line + 1))
 
-            if node.left:
-                rightview(node.left, level + 1)
+            if e.right:
+                queue.append((e.right, line + 1))
 
-        rightview(root, 0)
+        for value in sorted(result.items()): 
+            ans.append(value[1])
+
         return ans
-
-        
