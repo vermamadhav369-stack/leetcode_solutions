@@ -31,6 +31,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0150-evaluate-reverse-polish-notation](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 ## Hamiltonian Path
@@ -359,6 +361,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0144-binary-tree-preorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -412,6 +416,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 ## DP on Trees
 |  |
 | ------- |
