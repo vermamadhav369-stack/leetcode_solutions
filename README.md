@@ -17,6 +17,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0048-rotate-image](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0066-plus-one) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
