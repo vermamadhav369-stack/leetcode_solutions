@@ -56,6 +56,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0904-fruit-into-baskets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 ## Hamiltonian Path
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0112-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
