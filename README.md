@@ -46,6 +46,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0485-max-consecutive-ones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0054-spiral-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0112-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## DP on Trees
