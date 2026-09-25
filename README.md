@@ -28,6 +28,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0090-subsets-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0048-rotate-image](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
@@ -406,6 +409,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0112-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0102-binary-tree-level-order-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
