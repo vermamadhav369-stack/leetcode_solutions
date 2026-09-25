@@ -61,6 +61,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 ## Hamiltonian Path
 |  |
@@ -378,6 +380,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Quicksort
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -442,6 +446,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
