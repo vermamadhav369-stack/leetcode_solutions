@@ -77,6 +77,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0001-two-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0126-word-ladder-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0020-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0126-word-ladder-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0078-subsets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0102-binary-tree-level-order-traversal](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -458,5 +462,6 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
