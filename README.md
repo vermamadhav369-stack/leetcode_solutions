@@ -388,6 +388,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0128-longest-consecutive-sequence](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Quicksort
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
@@ -467,4 +470,16 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0126-word-ladder-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0127-word-ladder) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
