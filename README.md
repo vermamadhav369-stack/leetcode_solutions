@@ -66,6 +66,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Interactive
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0020-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hamiltonian Path
 |  |
 | ------- |
