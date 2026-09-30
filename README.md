@@ -269,6 +269,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0771-jewels-and-stones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
