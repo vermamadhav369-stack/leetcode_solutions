@@ -240,6 +240,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0124-binary-tree-maximum-path-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Interactive
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0394-decode-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0394-decode-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0020-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0409-longest-palindrome](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
