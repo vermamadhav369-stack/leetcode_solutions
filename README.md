@@ -274,6 +274,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0804-unique-morse-code-words](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
@@ -308,6 +309,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0735-asteroid-collision](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
@@ -339,6 +341,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0032-longest-valid-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
