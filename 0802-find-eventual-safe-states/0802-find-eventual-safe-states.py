@@ -1,31 +1,34 @@
 class Solution:
+    def dfs(self, curr_node, graph, visited, path_visited, is_safe):
+        visited[curr_node] = 1
+        path_visited[curr_node] = 1
+
+        for adjnode in graph[curr_node]:
+            if visited[adjnode] == 0:
+                ans = self.dfs(adjnode, graph, visited, path_visited, is_safe)
+                if ans == False:
+                    return False
+
+            elif path_visited[adjnode] == 1:
+                return False
+
+        path_visited[curr_node] = 0
+        is_safe[curr_node] = 1
+        return True
+
     def eventualSafeNodes(self, graph: list[list[int]]) -> list[int]:
-        
-        #First we reverse the given graph.
         V = len(graph)
-        adj_list = [[] for _ in range(V)] 
-        indegrees = [0 for _ in range(V)]
-        for node in range(0, V):
-            for adjnode in graph[node]:
-                adj_list[adjnode].append(node)
-                indegrees[node] += 1 #here we calculate indegrees
+        visited = [0 for _ in range(V)]
+        path_visited = [0 for _ in range(V)]
+        is_safe = [0 for _ in range(V)]
 
-        queue = deque()
-
-        #Add all the nodes with indegrees 0 in queue
-        for node in range(0, V):
-            if indegrees[node] == 0:
-                queue.append(node)
+        for i in range(0,V):
+            if visited[i] == 0:
+                self.dfs(i, graph, visited, path_visited, is_safe)
 
         result = []
-        while len(queue) != 0:
-            curr_node = queue.popleft()
-            result.append(curr_node)
-            for adjnode in adj_list[curr_node]:
-                indegrees[adjnode] -= 1
-                if indegrees[adjnode] == 0:
-                    queue.append(adjnode)
+        for i in range(V):
+            if is_safe[i] == 1:
+                result.append(i)
 
-        result.sort()
         return result
-
