@@ -515,6 +515,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0210-course-schedule-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
