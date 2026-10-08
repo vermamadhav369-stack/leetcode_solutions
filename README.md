@@ -65,6 +65,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0904-fruit-into-baskets](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3731-find-missing-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -395,6 +399,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0209-minimum-size-subarray-sum](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
@@ -407,6 +412,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0680-valid-palindrome-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
