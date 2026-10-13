@@ -66,6 +66,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [1091-shortest-path-in-binary-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hamiltonian Path
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0200-number-of-islands](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quicksort
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -501,6 +506,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -546,4 +552,12 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
