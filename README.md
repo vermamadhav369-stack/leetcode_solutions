@@ -248,6 +248,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Interactive
 |  |
@@ -469,6 +470,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0543-diameter-of-binary-tree](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1020-number-of-enclaves) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0207-course-schedule](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
@@ -555,9 +559,14 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
