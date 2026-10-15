@@ -18,6 +18,7 @@ class Solution:
 
                 if new_cost < min_cost[adjnode]:
                     new_step = step + 1
+                    
                     if new_step == k + 1:
                         if adjnode != dst:
                             continue
