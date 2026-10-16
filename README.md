@@ -249,6 +249,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0542-01-matrix](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Interactive
 |  |
@@ -529,6 +530,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0207-course-schedule](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -565,8 +568,10 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
