@@ -1,9 +1,10 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        n = len(nums)
-        dict = {}
-        for i in range(n):
-            answer = target-nums[i]
-            if answer in dict:
-                return [dict[answer],i]
-            dict[nums[i]] = i
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        result = {}
+        for i in range(len(nums)):
+
+            comp = target - nums[i]
+            if comp in result:
+                return [result[comp],i]
+
+            result[nums[i]] = i
