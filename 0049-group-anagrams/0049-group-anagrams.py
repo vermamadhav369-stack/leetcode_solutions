@@ -1,12 +1,19 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        #optimal solution
+
         result = {}
-
         for n in strs:
-            ch = "".join(sorted(n))
-            if ch not in result:
-                result[ch] = []
+            count = [0] * 26
 
-            result[ch].append(n)
+            for ch in n:
+                count[ord(ch) - ord('a')] += 1
 
-        return list(result.values())
+            key = tuple(count)
+
+            if key not in result:
+                result[key] = []
+
+            result[key].append(n)
+
+        return list(result.values())        
