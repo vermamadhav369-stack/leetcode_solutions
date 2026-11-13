@@ -43,6 +43,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0219-contains-duplicate-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0217-contains-duplicate](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0088-merge-sorted-array](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | ------- |
 | [0053-maximum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
@@ -571,6 +576,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
@@ -596,4 +602,12 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
