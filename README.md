@@ -75,6 +75,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [1004-max-consecutive-ones-iii](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
