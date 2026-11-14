@@ -1,0 +1,17 @@
+class Solution:
+    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
+        
+        mini_sum = float("inf")
+        for i in range(len(nums)):
+            total = 0
+
+            for j in range(i, min(i+r, len(nums))):
+                total += nums[j]
+                length = j - i + 1
+                if l <= length <= r and total > 0:
+                    mini_sum = min(mini_sum, total)
+
+        if mini_sum == float("inf"):
+            return -1
+        
+        return mini_sum
