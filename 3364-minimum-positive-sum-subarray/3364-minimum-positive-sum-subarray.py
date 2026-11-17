@@ -15,3 +15,5 @@ class Solution:
             return -1
         
         return mini_sum
+
+        #TC = O(N*R) and SC = O(1)
