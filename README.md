@@ -180,6 +180,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0342-power-of-four](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions . - Created using [LeetHub v2](https://github
 | [0844-backspace-string-compare](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/vermamadhav369-stack/leetcode_solutions/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
